@@ -1,0 +1,34 @@
+C:\Users\MONSTER\Desktop\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\bin\Debug\net9.0-windows\OOP_Assignment_2_B231210041.exe
+C:\Users\MONSTER\Desktop\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\bin\Debug\net9.0-windows\OOP_Assignment_2_B231210041.deps.json
+C:\Users\MONSTER\Desktop\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\bin\Debug\net9.0-windows\OOP_Assignment_2_B231210041.runtimeconfig.json
+C:\Users\MONSTER\Desktop\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\bin\Debug\net9.0-windows\OOP_Assignment_2_B231210041.dll
+C:\Users\MONSTER\Desktop\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\bin\Debug\net9.0-windows\OOP_Assignment_2_B231210041.pdb
+C:\Users\MONSTER\Desktop\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.Form1.resources
+C:\Users\MONSTER\Desktop\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.dll
+C:\Users\MONSTER\Desktop\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\refint\OOP_Assignment_2_B231210041.dll
+C:\Users\MONSTER\Desktop\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.pdb
+C:\Users\MONSTER\Desktop\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\ref\OOP_Assignment_2_B231210041.dll
+C:\Users\MONSTER\Desktop\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.Form2.resources
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Ödev 2\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\bin\Debug\net9.0-windows\OOP_Assignment_2_B231210041.exe
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Ödev 2\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\bin\Debug\net9.0-windows\OOP_Assignment_2_B231210041.deps.json
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Ödev 2\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\bin\Debug\net9.0-windows\OOP_Assignment_2_B231210041.runtimeconfig.json
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Ödev 2\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\bin\Debug\net9.0-windows\OOP_Assignment_2_B231210041.dll
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Ödev 2\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\bin\Debug\net9.0-windows\OOP_Assignment_2_B231210041.pdb
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Ödev 2\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.Form1.resources
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Ödev 2\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.Form2.resources
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Ödev 2\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Ödev 2\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Ödev 2\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Ödev 2\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Ödev 2\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Ödev 2\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.dll
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Ödev 2\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\refint\OOP_Assignment_2_B231210041.dll
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Ödev 2\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.pdb
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Ödev 2\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\OOP_Assignment_2_B231210041.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Ödev 2\OOP_Assignment_2_B231210041\OOP_Assignment_2_B231210041\obj\Debug\net9.0-windows\ref\OOP_Assignment_2_B231210041.dll
